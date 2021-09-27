@@ -8,12 +8,11 @@
 #
 ##################################################
 # Author: Diego Pajarito
-# Copyright: Copyright 2020, IAAC
 # Credits: [Institute for Advanced Architecture of Catalonia - IAAC, Advanced Architecture group]
 # License:  Apache License Version 2.0
 # Version: 1.0.0
-# Maintainer: Michael DiCarlo
-# Email: MichaelrDiCarlo@gmail.com
+# Maintainer: Diego Pajarito
+# Email: diegopajarito@iaac.net
 # Status: development
 ##################################################
 
